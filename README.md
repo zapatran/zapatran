@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 👋! I am Thor, a **Computer Science** and **Multimedia Engineer** focused on **Web Development**. I am currently based in **Barcelona**, even though I spent some time living in Canada, Vancouver.
 
