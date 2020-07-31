@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋! I am Thor, a **Computer Science** and **Multimedia Engineer** focused on **Web Development**. I am currently based in **Barcelona**, even though I spent some time living in Canada, Vancouver.
+I am Thor, a **Computer Science** and **Multimedia Engineer** focused on **Web Development**. I am currently based in **Barcelona**, even though I spent some time living in Canada, Vancouver.
 
 I have trouble naming my hobbies because I’m lucky enough that my biggest passion is what I do every day: **coding**. That said, I also enjoy **reading** (about code, obviously), **traveling**, [**taking pictures**](<https://www.instagram.com/zapatran>) and **learning** about **home automation**.
 
