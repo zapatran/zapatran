@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**zapatran/zapatran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋! I am Thor, a **Computer Science** and **Multimedia Engineer** focused on **Web Development**. I am currently based in **Barcelona**, even though I spent some time living in Canada, Vancouver.
 
-Here are some ideas to get you started:
+I have trouble naming my hobbies because I’m lucky enough that my biggest passion is what I do every day: **coding**. That said, I also enjoy **reading** (about code, obviously), **traveling**, [**taking pictures**](<https://www.instagram.com/zapatran>) and **learning** about **home automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Still want to get to know me better? These are a few facts about myself.
+
+*   👨🏻‍🏫 I have taught at Ironhack for over 2 years, helping students kickstart their web dev career in just a few months.
+*   👷🏻‍♂️ I have always been a business-oriented person, and have an extensive sales and managerial background.
+*   🇪🇸 I collect flags — yes, like Sheldon Cooper, but no, I don’t have a show about it.
+*   🎒 I am obsessed with backpacks, luggage and travel equipment in general.
+
+## Countries visited
+
+🇫🇷 🇸🇪 🇨🇦 🇨🇱 🇺🇸 🇬🇧 🇮🇪 🇲🇨 🇵🇹 🇩🇰 🇩🇪 🇦🇩 🇬🇷 🇭🇺
