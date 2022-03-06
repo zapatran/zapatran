@@ -6,7 +6,7 @@ I have trouble naming my hobbies because I’m lucky enough that my biggest pass
 
 Still want to get to know me better? These are a few facts about myself.
 
-*   👨🏻‍🏫 I have taught at Ironhack for over 2 years, helping students kickstart their web dev career in just a few months.
+*   👨🏻‍🏫 I have taught at Ironhack for over 5 years, helping students kickstart their web dev career in just a few months.
 *   👷🏻‍♂️ I have always been a business-oriented person, and have an extensive sales and managerial background.
 *   🇪🇸 I collect flags — yes, like Sheldon Cooper, but no, I don’t have a show about it.
 *   🎒 I am obsessed with backpacks, luggage and travel equipment in general.
