@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Computer Science** and **Multimedia Engineer**, and a **Senior Frontend Developer at [Trainline](https://www.thetrainline.com)**, where I spend my days building things that help people get on the right train (and, ideally, never miss it).
+I'm a **Computer Science** and **Multimedia Engineer**, and a **Frontend Developer at [Trainline](https://www.thetrainline.com)**, where I spend my days building things that help people get on the right train (and, ideally, never miss it).
 
 I live in **[Sitges / Barcelona area]**, after a stint in **Vancouver, Canada** 🇨🇦 that I still bring up far too often.
 
