@@ -21,10 +21,6 @@ Naming my hobbies is tricky, because my biggest passion is what I do every day: 
 *   🇪🇸 I collect flags. Yes, like Sheldon Cooper, but no, I don't have a show about it.
 *   🎒 I'm obsessed with backpacks, luggage and travel gear in general.
 
-## Currently working on
-
-*   [Proyecto o cosa que estés haciendo ahora]
-
 ## Countries visited
 
 🇫🇷 🇸🇪 🇨🇦 🇨🇱 🇺🇸 🇬🇧 🇮🇪 🇲🇨 🇵🇹 🇩🇰 🇩🇪 🇦🇩 🇬🇷 🇭🇺 🇦🇹 🇨🇿
