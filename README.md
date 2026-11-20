@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-I am a **Computer Science** and **Multimedia Engineer** focused on **Web Development**. I am currently based in **Barcelona**, even though I spent some time living in Canada, Vancouver.
+I'm a **Computer Science** and **Multimedia Engineer**, and a **Senior Frontend Developer at [Trainline](https://www.thetrainline.com)**, where I spend my days building things that help people get on the right train (and, ideally, never miss it).
 
-I have trouble naming my hobbies because I’m lucky enough that my biggest passion is what I do every day: **coding**. That said, I also enjoy **reading** (about code, obviously), **traveling**, [**taking pictures**](<https://www.instagram.com/zapatran>) and **learning** about **home automation**.
+I live in **[Sitges / Barcelona area]**, after a stint in **Vancouver, Canada** 🇨🇦 that I still bring up far too often.
 
-Still want to get to know me better? These are a few facts about myself.
+## What I work with
 
-*   👨🏻‍🏫 I have taught at Ironhack for over 5 years, helping students kickstart their web dev career in just a few months.
-*   👷🏻‍♂️ I have always been a business-oriented person, and have an extensive sales and managerial background.
-*   🇪🇸 I collect flags — yes, like Sheldon Cooper, but no, I don’t have a show about it.
-*   🎒 I am obsessed with backpacks, luggage and travel equipment in general.
+**TypeScript** · **JavaScript** · **React** · **Node.js** · **pnpm** · **Docker** · **Terraform**
+
+I like fast feedback loops, small PRs and components that do one thing well.
+
+## Beyond the code
+
+Naming my hobbies is tricky, because my biggest passion is what I do every day: **coding**. That said, I also enjoy **reading** (about code, obviously), **traveling**, [**taking pictures**](https://www.instagram.com/zapatran) and tinkering with **home automation** until something finally turns on by itself.
+
+## A few facts about me
+
+*   👨🏻‍🏫 I taught at Ironhack for over 5 years, helping students kickstart their web dev career in just a few months.
+*   👷🏻‍♂️ I've always been business-oriented, with an extensive sales and managerial background.
+*   🇪🇸 I collect flags. Yes, like Sheldon Cooper, but no, I don't have a show about it.
+*   🎒 I'm obsessed with backpacks, luggage and travel gear in general.
+
+## Currently working on
+
+*   [Proyecto o cosa que estés haciendo ahora]
 
 ## Countries visited
 
-🇫🇷 🇸🇪 🇨🇦 🇨🇱 🇺🇸 🇬🇧 🇮🇪 🇲🇨 🇵🇹 🇩🇰 🇩🇪 🇦🇩 🇬🇷 🇭🇺 🇦🇹 🇨🇿 
+🇫🇷 🇸🇪 🇨🇦 🇨🇱 🇺🇸 🇬🇧 🇮🇪 🇲🇨 🇵🇹 🇩🇰 🇩🇪 🇦🇩 🇬🇷 🇭🇺 🇦🇹 🇨🇿
+
+## Say hi
+
+[LinkedIn](#) · [Instagram](https://www.instagram.com/zapatran) · [Web](#)
